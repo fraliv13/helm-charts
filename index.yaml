@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   rusi:
   - apiVersion: v1
+    appVersion: 3.0.0
+    created: "2021-10-25T15:44:54.126113161Z"
+    description: A Helm chart for Rusi on Kubernetes
+    digest: 89c2dd590a5050a9503356e2dbcb53c86415d4e73f42f47c809a3a13d7530862
+    name: rusi
+    urls:
+    - https://fraliv13.github.io/helm-charts/rusi-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v1
     appVersion: 2.3.5
-    created: "2021-10-22T17:17:59.897020889Z"
+    created: "2021-10-25T15:44:54.125131142Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 668a118459335ee871e6fca008468af2d03e631d5aeb9d2ff5fe32a8dab57dbe
     name: rusi
@@ -12,11 +21,11 @@ entries:
     version: 2.3.5
   - apiVersion: v1
     appVersion: 2.3.4
-    created: "2021-10-22T17:17:59.896008171Z"
+    created: "2021-10-25T15:44:54.124217624Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 73e09b7a0385fd081e621e8ba554d65a3cf3122d0d1d74c551b721de3168b5e6
     name: rusi
     urls:
     - https://fraliv13.github.io/helm-charts/rusi-2.3.4.tgz
     version: 2.3.4
-generated: "2021-10-22T17:17:59.894781248Z"
+generated: "2021-10-25T15:44:54.116577576Z"
